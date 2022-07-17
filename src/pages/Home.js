@@ -29,12 +29,12 @@ export default function Home() {
                 </div>
                 <div className=''>
                     <h1 className='text-5xl'>What else do we have</h1>
-                    <p className='text-xl md:text-2xl py-4 tracking-wider'>Medicare is a web app where you can:
+                    <p className='text-xl md:text-2xl py-4 tracking-wider'>MediCare is a web app where you can:
                     </p>
                     <ul className="text-xl">
                         <li className="list-disc">Smart disease prediction.</li>
                         <li className="list-disc">Contact doctor for any help.</li>
-                        <li className="list-disc">Take a parkinsons test to check if you have Parkinson or not. </li>
+                        <li className="list-disc">Take a parkinsons test to check if you have Parkinson or not.</li>
                         <li className="list-disc">A story telling game specially for elderly people to diagnose Alzheimer and improve cognitive skills.</li>
                     </ul>
                 </div>
