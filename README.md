@@ -19,6 +19,10 @@ MediCare is a web application where users can take a parkinsons test to check if
 - Google Teachable Machine: For training the model
 - Tailwind: For styling and animations
 
+## 📚 Research
+
+Dataset used: 
+
 ## 🧠 Challenges we ran into
 
 - As I don't have any experience with ML, I learned how to use Tensorflow.js build the ML model.
